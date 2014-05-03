@@ -5,9 +5,9 @@
 Library :
 ***
 
-Actionbar sherlockholmes (UI)
-Cropper (Cropping image)
-pulkit110/Devanagari-Character-Recognition (Inspiration Recognition)  
+1. Actionbar sherlockholmes (UI)
+2. Cropper (Cropping image)
+3. pulkit110/Devanagari-Character-Recognition (Inspiration Recognition)  
 
 ***
 Process recognition :
