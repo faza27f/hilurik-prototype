@@ -1,0 +1,61 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item_camera"
+		android:title="@string/camera"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_camera"/>
+    
+     <item
+        android:id="@+id/item_upload"
+        android:title="@string/upload"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_upload"/>
+
+     <item
+        android:id="@+id/item_menu"
+        android:title="@string/menu"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_menu" >
+		
+         <menu>
+             
+            <!--  <item
+			    android:id="@+id/item_collection"
+			    android:title="@string/collection"
+			    android:showAsAction="ifRoom|withText"
+			    android:icon="@drawable/ic_collection" /> -->
+		     
+             <item
+		        android:id="@+id/item_info"
+		        android:title="@string/info"
+		        android:showAsAction="ifRoom|withText"
+		        android:icon="@drawable/ic_info" />
+             
+             <!-- <item
+		        android:id="@+id/item_train"
+		        android:title="@string/trainning"
+		        android:showAsAction="ifRoom|withText"
+		        android:icon="@drawable/ic_hilurik" /> -->
+             
+             <item
+		        android:id="@+id/item_tutorial"
+		        android:title="@string/tutorial"
+		        android:showAsAction="ifRoom|withText"
+		        android:icon="@drawable/ic_tutorial" />
+             
+             <item
+		        android:id="@+id/item_gallery"
+		        android:title="@string/gallery"
+		        android:showAsAction="ifRoom|withText"
+		        android:icon="@drawable/ic_hilurik" />
+             
+             <!-- <item
+		        android:id="@+id/item_glossary"
+		        android:title="@string/glossary"
+		        android:showAsAction="ifRoom|withText"
+		        android:icon="@drawable/ic_hilurik" /> -->
+         </menu>
+	</item>    
+
+</menu>

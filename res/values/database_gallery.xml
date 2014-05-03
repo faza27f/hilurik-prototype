@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="map_location">"geo:0,0?q=Coffee Shops near Paris, France"</string>
+    <string name="map_location2">geo:0,180?z=1</string> <!-- show langitude and latitude -->
+    <string name="map_location3">"geo:0,0?q=Belgium"</string> <!-- show location -->
+    
+    <string name="latitude_yogya">-7.797224000000000000</string> <!-- show location -->
+    <string name="longitude_yogya">110.368796999999970000</string> <!-- show location -->
+    
+    <string name="latitude_solo">-7.314355000000000000</string> <!-- show location -->
+    <string name="longitude_solo">111.688174600000020000</string> <!-- show location -->
+    
+    <string name="lurik_1">Udan Liris</string>
+    <string name="lurik_1_content">\n Jenis    : Lajuran 
+                                   \n Makna : Hujan gerimis mempunyai konotasi mendatangkan kesuburan dan rezeki
+                                   \n Kegunaan : Dipakai oleh para penguasa (dengan harapan pemakai diberkati oleh tuhan yang maha esa)
+                                   \n Tempat   : Yogya dan Solo </string>
+    <string name="lurik_1_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_2">Dengklung</string>
+    <string name="lurik_2_content">\n Jenis    : Pakan malang 
+                                   \n Makna : Dikiaskan dengan umur tua, tapi memiliki ilmu pengalaman yang banyak
+                                   \n Kegunaan : Upacara sesajen dan digunakan juga untuk wanita dodolan dawet (penjual dawet) 
+                                   \n Tempat   : Yogya dan Solo </string>
+    <string name="lurik_2_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_3">Palen</string>
+    <string name="lurik_3_content">\n Jenis    : Pakan malang 
+                                   \n Makna : Memaleni(memberkahi), atau palong(bersinar)
+                                   \n Kegunaan : Upacara sasrahan adalah penyerahan berbagai barang dari pihak calon pria ke wanita 
+                                   \n Tempat   : Yogya dan Solo </string>
+    <string name="lurik_3_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_4">Gedog Madu</string>
+    <string name="lurik_4_content">\n Jenis    : Pakan malang 
+                                   \n Makna : Menggambarkan rasa madu yang manis
+                                   \n Kegunaan : Upacara tingkeban mitoni 
+                                   \n Tempat   : Yogya dan Solo </string>
+    <string name="lurik_4_map_location">"geo:0,0?q=Belgium"</string>
+
+    <string name="lurik_5">Tuluh Watuh</string>
+    <string name="lurik_5_content">\n Jenis    : Lajuran 
+                                   \n Makna : Batu yang bersinar dianggap bertuah sebagai penolak bala, kuat atau perkasa. (Corak Sakral)
+                                   \n Kegunaan : Upacara ruwatan anak sukerta dan sebagai pelengkap sesajen upacaran labuhan, dipakai oleh orang tertentu. 
+                                   \n Tempat   : Yogya dan Solo </string>
+    <string name="lurik_5_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_6">Bodro</string>
+    <string name="lurik_6_content">\n Jenis    : Pakan malang 
+                                   \n Makna : Sembodro, yaitu nama salah seorang tokoh wanita dalam pewayangan yang terkenal cantik, penyabar dan setia, meskipun dimadu. Ia adalah salah seorang istri dari Arjuna.
+                                   \n Kegunaan : Digunakan sebagai pakaian oleh kaum wanita. 
+                                   \n Tempat   : Yogya dan Solo </string>
+    <string name="lurik_6_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_7">Mlati Seconthong</string>
+    <string name="lurik_7_content">\n Jenis    : Cacahan 
+                                   \n Makna : Lambang kesucian dan keharuman nama seorang wanita.
+                                   \n Kegunaan : Digunakan sebagai pakaian oleh kaum wanita. 
+                                   \n Tempat   : Yogya dan Solo </string>
+    <string name="lurik_7_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_8">Sapit Urang</string>
+    <string name="lurik_8_content">\n Jenis    : Lajuran 
+                                   \n Makna : Berarti jepit udang adalah ungkapan simbolis suatu siasat perang, yaitu dimana musuh dikelilingi atau dari samping dan kekuatan, komando menyerang berada ditengah-tengah.
+                                   \n Kegunaan : Dipakai oleh orang yang memiliki kekuasaan. 
+                                   \n Tempat   : Yogya dan Solo </string>
+    <string name="lurik_8_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_9">Jaran Dawuk</string>
+    <string name="lurik_9_content">\n Jenis    : Lajuran 
+                                   \n Makna : Berarti kuda berwarna keabu-abuan, lambang keperkasaan, kegagahan seorang pria bagaikan tegarnya seekor kuda jantan.
+                                   \n Kegunaan : Digunakan oleh kaum pria.
+                                   \n Tempat   : Yogya dan Solo </string>
+    <string name="lurik_9_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_10">Gambang Suling</string>
+    <string name="lurik_10_content">\n Jenis   : Lajuran 
+                                    \n Makna : Nama salah satu gending Jawa yang bernada optimis sejalan dengan sifat yang diharapkan dari kaum pria.
+                                    \n Kegunaan : Digunakan oleh kaum pria. 
+                                    \n Tempat   : Yogya dan Solo </string>
+    <string name="lurik_10_map_location">"geo:0,0?q=Belgium"</string>                               
+    
+    <string name="lurik_11">Telu-pat</string>
+    <string name="lurik_11_content"><br>Jenis : Lajuran Makna : Corak lajuran yang berjumlah tujuh, terdiri dari satu satuan kelompok dengan empat lajur dan 3 lajuran. angka 7 merupakan angka keramat yang dalam tradisi kejawen, melambangkan kehidupan  Kegunaan : Perbandingan 3 : 4 tidak terlalu mecolok, tidak jauh bahkan tidak berdekatan, dibandingkan dengan perbandingan lainnya. (bahwa seseorang yang lebih besar - bukan dalam arti harfiah - seperti umpamanya raja atau penguasa, harus dekat dengan rakyatnya serta harus memberikan kemakmuran kepada rakyat). Tempat : Yogya dan Solo </br></string>
+    <string name="lurik_11_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_12">Loro-pat</string>
+    <string name="lurik_12_content"><br>Jenis : Lajuran Makna : Angka 2 dan 4. Kegunaan : Oleh para penguasa, bangsawan dan kerajaan. Tempat : Yogya dan Solo </br></string>
+    <string name="lurik_12_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_13">Dam-daman</string>
+    <string name="lurik_13_content"><br>Jenis : Cacahan Makna : belum ada. Kegunaan : Upacara sasrahan adalah penyerahan berbagai barang dari pihak calon pria ke wanita Tempat   : Yogya dan Solo </br></string>
+    <string name="lurik_13_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_14">Ojo lali</string>
+    <string name="lurik_14_content"><br>Jenis : Cacahan Makna : Mengingatkan akan Kegunaan : bahan pakaian surjan, stagen dan jarit.   : Yogya dan Solo </br></string>
+    <string name="lurik_14_map_location">"geo:0,0?q=Belgium"</string>
+
+    <string name="lurik_15">Telu-telu</string>
+    <string name="lurik_15_content"><br>Jenis : Lajuran Makna : Angka 3 dan 3. Kegunaan : Oleh para penguasa, bangsawan dan kerajaan. Tempat : Yogya dan Solo </br></string>
+    <string name="lurik_15_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_16">Dom kecer</string>
+    <string name="lurik_16_content"><br>Jenis : Lajuran Makna : Jarum tercecer. Kegunaan : bahan pakaian surjan, stagen dan jarit. Tempat : Yogya dan Solo </br></string>
+    <string name="lurik_16_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_17">Tolak-bala</string>
+    <string name="lurik_17_content"><br>Jenis : Cacahan </br> <br>Makna : Pagar untuk mengahalangi marabahaya dan musibah. Kegunaan : Pelengkap acara ritual yaitu seperti sesajen, tumbal untuk berbagai hal dan peristiwa, dan digunakan oleh rakyat bali dengan melingkarkan kain tolak bala dipohon. Tempat : Yogya dan Solo </br></string>
+    <string name="lurik_17_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_18">Bribil</string>
+    <string name="lurik_18_content"><br>Jenis : Lajuran </br> <br>Makna : belum ada. </br> <br>Kegunaan : dipakai oleh orang yang memiliki kekuasaan.</br> <br>Tempat : Yogya dan Solo </br> </string>
+    <string name="lurik_18_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_19">Sodo sak ler</string>
+    <string name="lurik_19_content"><br>Jenis : Lajuran Makna : belum ada. Kegunaan : digunakan oleh kaum pria. Tempat : Yogya dan Solo </br></string>
+    <string name="lurik_19_map_location">"geo:0,0?q=Belgium"</string>
+    
+    <string name="lurik_20">Obar abir</string>
+    <string name="lurik_20_content"><br>Jenis : Pakan malang Makna : seperti kilat. Kegunaan : Upacara mitoni yaitu agar anak yang dikandungi terhindar dari mara bahaya dengan menyelimuti badan ibunya, upacara labuhan oleh penguasa kerajaan solo dan yoya. Tempat : Yogya dan Solo </br></string>
+    <string name="lurik_20_map_location">"geo:0,0?q=Belgium"</string>
+</resources>

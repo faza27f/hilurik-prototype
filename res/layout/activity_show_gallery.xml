@@ -1,0 +1,110 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	    xmlns:tools="http://schemas.android.com/tools"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:overScrollMode="ifContentScrolls">
+	
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="0dp"
+	    android:orientation="vertical"
+	    android:padding="5dp"
+	    tools:context=".GalleryActivity" >
+	    
+		<TextView 
+		    android:id="@+id/tv_title_gallery" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_margin="7dp" 
+		    android:textSize="40sp"/>
+
+		<ImageView 
+		    android:id="@+id/iv_head_gallery" 
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_margin="3dp"
+		    android:contentDescription="@string/app_name" />
+		
+		<!-- <TextView 
+		    android:id="@+id/tv_note" 
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_margin="7dp"
+		    android:textStyle="bold"
+		    android:text="Langkah - langkah mengenali kain Lurik" 
+		    android:textSize="17sp"/>
+		
+		<Button 
+		    android:id="@+id/btn_show_how_to_know" 
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_margin="5dp"
+		    android:gravity="center"
+		    android:onClick="HowToKnowLurik"
+		    android:text="Buka" 
+		    android:textSize="17sp"
+		    android:textStyle="bold"/> -->
+		
+		<LinearLayout 
+		    android:id="@+id/ll_image_how_to_know"
+   		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:visibility="gone"
+		    android:orientation="vertical">
+		    
+		    <ImageView 
+			    android:id="@+id/iv_how_to_know1" 
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="3dp"
+			    android:contentDescription="@string/app_name" />
+			
+			<ImageView 
+			    android:id="@+id/iv_how_to_know2" 
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="3dp"
+			    android:contentDescription="@string/app_name" />
+			
+			<ImageView 
+			    android:id="@+id/iv_how_to_know3" 
+			    android:layout_width="fill_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_margin="3dp"
+			    android:contentDescription="@string/app_name" />
+		    
+		</LinearLayout>
+		
+		
+		<!-- <TextView 
+		    android:id="@+id/tv_note_2_gallery" 
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_margin="5dp"
+		    android:text="@string/note_2" 
+		    android:textSize="19sp"/>
+		
+		<TextView 
+		    android:id="@+id/tv_color_gallery" 
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_margin="5dp"/>	
+		
+		<EditText 
+		    android:id="@+id/et_hex_code" 
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_margin="5dp" 
+		    android:hint="@string/color_name"/> -->	
+		    
+		<TextView 
+		    android:id="@+id/tv_content_gallery" 
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:layout_margin="5dp" 
+		    android:textSize="23sp"/>
+		
+	</LinearLayout>        
+</ScrollView>
+
+
